@@ -972,9 +972,9 @@
                         <staff xml:id="staff-0000001734195884" n="1">
                            <layer xml:id="layer-0000000982165304" n="1">
                               <beam xml:id="beam-0000001692953486">
-                                 <note xml:id="note-0000001458400099" dur="8" oct="4" pname="c" grace="unknown" stem.dir="up" />
-                                 <note xml:id="note-0000002099600682" dur="8" oct="4" pname="f" grace="unknown" stem.dir="up" />
-                                 <note xml:id="note-0000000537374870" dur="8" oct="4" pname="a" grace="unknown" stem.dir="up" />
+                                 <note xml:id="note-0000001458400099" dur="8" oct="4" pname="c" grace="acc" stem.dir="up" />
+                                 <note xml:id="note-0000002099600682" dur="8" oct="4" pname="f" grace="acc" stem.dir="up" />
+                                 <note xml:id="note-0000000537374870" dur="8" oct="4" pname="a" grace="acc" stem.dir="up" />
                               </beam>
                               <note xml:id="note-0000001490704455" dur="4" oct="5" pname="c" stem.dir="up" />
                               <beam xml:id="beam-0000001348837174">
