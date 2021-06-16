@@ -3061,7 +3061,7 @@
                                  <tuplet xml:id="tuplet-0000001695311982" num="6" numbase="4" num.place="above" bracket.visible="false">
                                     <note xml:id="note-0000000295453078" dur="64" oct="5" pname="c" stem.dir="down" accid.ges="s" />
                                     <note xml:id="note-0000000816495554" dur="64" oct="4" pname="b" stem.dir="down">
-                                       <accid xml:id="accid-0000000420271748" accid="s" />
+                                       <accid xml:id="accid-0000000420271748" accid="ns" />
                                     </note>
                                     <note xml:id="note-0000000433553653" dur="64" oct="5" pname="c" stem.dir="down" accid.ges="s" />
                                     <note xml:id="note-0000001196169461" dur="64" oct="5" pname="e" stem.dir="down" />
@@ -3077,7 +3077,7 @@
                                     <note xml:id="note-0000000472948333" dur="64" oct="5" pname="f" stem.dir="down" accid.ges="s" />
                                     <note xml:id="note-0000001350375598" dur="64" oct="5" pname="g" stem.dir="down" />
                                     <note xml:id="note-0000001155494090" dur="64" oct="5" pname="b" stem.dir="down">
-                                       <accid xml:id="accid-0000000694550809" accid="f" />
+                                       <accid xml:id="accid-0000000694550809" accid="nf" />
                                     </note>
                                     <note xml:id="note-0000001741825418" dur="64" oct="5" pname="a" stem.dir="down" />
                                     <note xml:id="note-0000000362724422" dur="64" oct="5" pname="b" stem.dir="down" accid.ges="f" />
@@ -6645,7 +6645,9 @@
                            </staff>
                            <staff xml:id="staff-0000001140969778" n="2">
                               <layer xml:id="layer-0000001397574783" n="1">
-                                 <note xml:id="note-0000000683624437" dur="8" oct="2" pname="e" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="note-0000000683624437" dur="8" oct="2" pname="e" stem.dir="up" accid.ges="f">
+                                    <artic xml:id="artic-0000000004628023" artic="stacc" place="below"/>
+                                 </note>
                                  <beam xml:id="beam-0000000780819251">
                                     <chord xml:id="chord-0000001563238216" dur="8" stem.dir="down">
                                        <artic xml:id="artic-0000001029758914" artic="stacc" />
@@ -6783,6 +6785,7 @@
                            </staff>
                            <slur xml:id="slur-0000000920304072" startid="#note-0000001940673644" endid="#note-0000001373312410" curvedir="above" />
                            <slur xml:id="slur-0000000069766528" startid="#note-0000001805950118" endid="#note-0000000039964834" curvedir="above" />
+                           <slur xml:id="slur-0000000110020545" startid="#note-0000000582056155" endid="#note-0000000829785000" curvedir="above"/>
                         </measure>
                         <measure xml:id="measure-0000001883904358" n="106">
                            <staff xml:id="staff-0000000707231461" n="1">
