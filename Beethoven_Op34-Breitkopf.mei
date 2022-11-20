@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -74,6 +74,7 @@
                </scoreDef>
                <section xml:id="section-0000001500539489">
                   <section xml:id="Tema">
+                     <pb xml:id="pb-0000001414216321" />
                      <measure xml:id="measure-0000001787043783" metcon="false" n="0">
                         <staff xml:id="staff-0000001856634263" n="1">
                            <layer xml:id="layer-0000001057534889" n="1">
@@ -1145,9 +1146,9 @@
                            </layer>
                         </staff>
                      </measure>
-                     <pb xml:id="pb-0000001688699712" />
                   </section>
                   <section xml:id="VarI">
+                     <pb xml:id="pb-0000001688699712" />
                      <scoreDef xml:id="scoredef-0000002114376935" key.sig="2s" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="staffgrp-0000000330065223">
                            <staffDef xml:id="staffdef-0000000878387007" n="1">
