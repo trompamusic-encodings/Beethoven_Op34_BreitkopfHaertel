@@ -477,7 +477,7 @@
                                  <note xml:id="note-0000001948091559" dur="16" oct="5" pname="f" stem.dir="up" />
                                  <note xml:id="note-0000001107556714" dur="16" oct="5" pname="e" stem.dir="up" />
                                  <note xml:id="note-0000000897165467" dur="16" oct="5" pname="f" stem.dir="up" />
-                                 <note xml:id="note-0000001534998177" dur="16" oct="5" pname="d" stem.dir="up" accid.ges="f" />
+                                 <note xml:id="note-0000001534998177" dur="16" oct="5" pname="d" stem.dir="up" />
                               </beam>
                            </layer>
                            <layer xml:id="layer-0000001946673074" n="2">
@@ -710,7 +710,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <turn xml:id="turn-0000001068814756" staff="1" tstamp="1.870000" accidlower="s" delayed="true" form="upper" />
+                        <turn xml:id="turn-0000001068814756" staff="1" tstamp="1.70000" accidlower="s" delayed="true" form="upper" />
                         <tie xml:id="tie-0000002016525628" startid="#note-0000002016380584" endid="#note-0000000664037209" />
                         <dynam xml:id="dynam-0000000061241579" place="between" staff="1 2" tstamp="1.500000">cresc.</dynam>
                         <dynam xml:id="dynam-0000000368674742" place="below" startid="#note-0000001394884071" vgrp="44">sf</dynam>
