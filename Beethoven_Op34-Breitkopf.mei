@@ -86,7 +86,7 @@
                               <rest xml:id="rest-0000000037385490" dur="8" />
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000001561164615" place="above" staff="1" tstamp="1.000000">
+                        <tempo xml:id="tempo-0000001561164615" place="above" staff="1" tstamp="1.000000" mm="50" mm.unit="4">
                            <rend xml:id="rend-0000001143989690" fontsize="125.00%">Adagio.</rend>
                         </tempo>
                         <dynam xml:id="dynam-0000001514667331" place="between" staff="1 2" tstamp="1.000000" vgrp="200">p</dynam>
