@@ -7519,7 +7519,7 @@
                            </staff>
                            <staff xml:id="staff-0000000567294561" n="2">
                               <layer xml:id="layer-0000001839777694" n="1">
-                                 <beam xml:id="beam-0000001468440682">
+                                 <beam xml:id="beam-0000001468440682" form="mixed">
                                     <chord xml:id="chord-0000000104622587" dur="16" stem.dir="up">
                                        <note xml:id="note-0000000784533481" oct="1" pname="g" />
                                        <note xml:id="note-0000001750196463" oct="2" pname="g" />
