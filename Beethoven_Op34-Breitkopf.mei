@@ -12195,7 +12195,7 @@
                                  </beam>
                                  <beam xml:id="beam-0000001143638328">
                                     <tuplet xml:id="tuplet-0000000265046706" num="3" numbase="2" num.place="above" bracket.visible="false">
-                                       <note xml:id="note-0000000865793910" dur="64" oct="3" pname="g" stem.dir="up" />
+                                       <note xml:id="note-0000000865793910" dur="64" oct="3" pname="g" stem.dir="down"/>
                                        <note xml:id="note-0000000610442326" dur="64" oct="3" pname="e" stem.dir="down" />
                                        <note xml:id="note-0000000665893476" dur="64" oct="3" pname="g" stem.dir="down" />
                                     </tuplet>
@@ -12207,7 +12207,7 @@
                                  </beam>
                                  <beam xml:id="beam-0000001215575915">
                                     <tuplet xml:id="tuplet-0000000271414506" num="3" numbase="2" num.place="above" bracket.visible="false">
-                                       <note xml:id="note-0000000049522010" dur="64" oct="4" pname="e" stem.dir="up" />
+                                       <note xml:id="note-0000000049522010" dur="64" oct="4" pname="e" stem.dir="down" />
                                        <note xml:id="note-0000001342872882" dur="64" oct="4" pname="c" stem.dir="down" />
                                        <note xml:id="note-0000000819150759" dur="64" oct="4" pname="e" stem.dir="down" />
                                     </tuplet>
